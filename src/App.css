@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Khumb Sans";
+  src: url(./assets//fonts/KumbhSans-Regular.ttf);
+}
+* {
+  box-sizing: border-box;
+  font-family: "Khumb Sans";
+}
